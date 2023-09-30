@@ -1,3 +1,8 @@
+body{
+    blackground: #ccc;
+}
+
+
 #titile, .subtitle, .post_title {
     color: blue: 
 }
@@ -6,3 +11,7 @@
     font-size: 16px;
     font-style: italic;
 }
+.post {background: #fff;
+    padding: 10px;
+}
+
