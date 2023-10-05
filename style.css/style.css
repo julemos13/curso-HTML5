@@ -46,3 +46,13 @@ a {
 .post_image{
     margin-bottom: 15px;
 }
+
+.contacts-list {
+    list-style-type: square;
+    padding-left: 15px;
+}
+
+.contacts-list li a{
+    color: blue;
+    
+}
